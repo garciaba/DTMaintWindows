@@ -1,0 +1,859 @@
+[
+  {
+    "entityId": "HOST-08E998FE362D802A",
+    "displayName": "SrvBal-Corp - scpdpsnefro03v.ssib.es",
+    "discoveredName": "scpdpsnefro03v.ssib.es",
+    "firstSeenTimestamp": 1570307177709,
+    "lastSeenTimestamp": 1591692724122,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "Corp"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-862.9.1.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.137.200"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-2388497387952618268",
+        "name": "Corp"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-4B40EB5D4F5B21A2",
+    "displayName": "SrvBal-Corp - scpdpsnefro04v.ssib.es",
+    "discoveredName": "scpdpsnefro04v.ssib.es",
+    "firstSeenTimestamp": 1570308216554,
+    "lastSeenTimestamp": 1591692755316,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "Corp"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-862.9.1.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.137.203",
+      "10.215.137.207"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-2388497387952618268",
+        "name": "Corp"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-E81672736F9E9A28",
+    "displayName": "SrvBal-HCIN - shcinpsnefro03v.ssib.es",
+    "discoveredName": "shcinpsnefro03v.ssib.es",
+    "firstSeenTimestamp": 1580315609359,
+    "lastSeenTimestamp": 1591692719984,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HCIN"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-1062.9.1.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.136.209"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-5022902782038256553",
+        "name": "HCIN"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-3D6DAC9278433B8B",
+    "displayName": "SrvBal-HCIN - shcinpsnefro04v.ssib.es",
+    "discoveredName": "shcinpsnefro04v.ssib.es",
+    "firstSeenTimestamp": 1580316142577,
+    "lastSeenTimestamp": 1591692632783,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HCIN"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-1062.4.3.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.136.238",
+      "10.215.136.251"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-5022902782038256553",
+        "name": "HCIN"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-5C9586EC905AFD0F",
+    "displayName": "SrvBal-HSLL - shsllpsnef01v.ssib.es",
+    "discoveredName": "shsllpsnef01v.ssib.es",
+    "firstSeenTimestamp": 1570442970706,
+    "lastSeenTimestamp": 1591692507921,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HSLL"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-957.5.1.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.236.142"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-8230422299325167556",
+        "name": "HSLL"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-8ACAB2F17669502C",
+    "displayName": "SrvBal-HSLL - shsllpsnef02v.ssib.es",
+    "discoveredName": "shsllpsnef02v.ssib.es",
+    "firstSeenTimestamp": 1570442966981,
+    "lastSeenTimestamp": 1591692717939,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HSLL"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-957.5.1.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.236.144",
+      "10.215.236.128"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-8230422299325167556",
+        "name": "HSLL"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-9526A8A5757EE6F9",
+    "displayName": "SrvBal-HUSE - shusepsnefro03v.ssib.es",
+    "discoveredName": "shusepsnefro03v.ssib.es",
+    "firstSeenTimestamp": 1570311997724,
+    "lastSeenTimestamp": 1591692744856,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HUSE"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-957.1.3.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.208.164",
+      "10.215.208.173"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "4484046278855555276",
+        "name": "HUSE"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-C13810CDC7C44EE2",
+    "displayName": "SrvBal-HUSE - shusepsnefro04v.ssib.es",
+    "discoveredName": "shusepsnefro04v.ssib.es",
+    "firstSeenTimestamp": 1570312001100,
+    "lastSeenTimestamp": 1591692732353,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvBal"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HUSE"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "LINUX",
+    "osArchitecture": "X86",
+    "osVersion": "CentOS Linux 7 (Core) (kernel 3.10.0-957.1.3.el7.x86_64)",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.208.174"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.25,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "4484046278855555276",
+        "name": "HUSE"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-093D30DB6D02BC34",
+    "displayName": "SrvInt-HCIN - shcinpsnefro01v.ssib.local",
+    "discoveredName": "shcinpsnefro01v.ssib.local",
+    "firstSeenTimestamp": 1580335402090,
+    "lastSeenTimestamp": 1591692700693,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvInt"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HCIN"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.136.207"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-5022902782038256553",
+        "name": "HCIN"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-9189E6B0D9D392E7",
+    "displayName": "SrvInt-HCIN - shcinpsnefro02v.ssib.local",
+    "discoveredName": "shcinpsnefro02v.ssib.local",
+    "firstSeenTimestamp": 1580336730031,
+    "lastSeenTimestamp": 1591692664413,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvInt"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HCIN"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.136.208"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 2,
+    "logicalCpuCores": 2,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-5022902782038256553",
+        "name": "HCIN"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-595D139AF1685B8C",
+    "displayName": "SrvInt-HSLL - SHSLLPSNEF03V.ssib.local",
+    "discoveredName": "SHSLLPSNEF03V.ssib.local",
+    "firstSeenTimestamp": 1570444243784,
+    "lastSeenTimestamp": 1591692513151,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvInt"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HSLL"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Standard 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.236.58"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 4,
+    "logicalCpuCores": 4,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-8230422299325167556",
+        "name": "HSLL"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-5D9DDCEA9E02E133",
+    "displayName": "SrvInt-HSLL - SHSLLPSNEF04V.ssib.local",
+    "discoveredName": "SHSLLPSNEF04V.ssib.local",
+    "firstSeenTimestamp": 1570444585215,
+    "lastSeenTimestamp": 1591692717938,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvInt"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HSLL"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Standard 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.236.246"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 4,
+    "logicalCpuCores": 4,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-8230422299325167556",
+        "name": "HSLL"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-FE3EB9246B76EECF",
+    "displayName": "SrvInt-HUSE - shusepsnefro01v.ssib.local",
+    "discoveredName": "shusepsnefro01v.ssib.local",
+    "firstSeenTimestamp": 1570319381777,
+    "lastSeenTimestamp": 1591692700692,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvInt"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HUSE"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.208.171"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 4,
+    "logicalCpuCores": 4,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "4484046278855555276",
+        "name": "HUSE"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-4ABF88E87B6F8EA4",
+    "displayName": "SrvInt-HUSE - shusepsnefro02v.ssib.local",
+    "discoveredName": "shusepsnefro02v.ssib.local",
+    "firstSeenTimestamp": 1570319914415,
+    "lastSeenTimestamp": 1591692602521,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvInt"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "HUSE"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.208.172"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 4,
+    "logicalCpuCores": 4,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "4484046278855555276",
+        "name": "HUSE"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-57F102C26F586E50",
+    "displayName": "SrvSql-Corp - scpdpsnefro05v.ssib.local",
+    "discoveredName": "scpdpsnefro05v.ssib.local",
+    "firstSeenTimestamp": 1571870371233,
+    "lastSeenTimestamp": 1591692506933,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvSql"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "Corp"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.134.81",
+      "192.168.0.38"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 8,
+    "logicalCpuCores": 8,
+    "monitoringMode": "INFRASTRUCTURE",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.6,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-2388497387952618268",
+        "name": "Corp"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-7A95B9A6C5EE9DF2",
+    "displayName": "SrvSql-Corp - scpdpsnefro06v.ssib.local",
+    "discoveredName": "scpdpsnefro06v.ssib.local",
+    "firstSeenTimestamp": 1571870878967,
+    "lastSeenTimestamp": 1591692501704,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvSql"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "Corp"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.134.115",
+      "10.215.134.159",
+      "10.215.134.236",
+      "10.215.134.176",
+      "192.168.0.39",
+      "10.215.134.173",
+      "10.215.134.174"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 8,
+    "logicalCpuCores": 8,
+    "monitoringMode": "INFRASTRUCTURE",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.6,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-2388497387952618268",
+        "name": "Corp"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-86FB67A83B9719F5",
+    "displayName": "SrvWeb-Corp - scpdpsnefro01v.ssib.local",
+    "discoveredName": "scpdpsnefro01v.ssib.local",
+    "firstSeenTimestamp": 1570317157128,
+    "lastSeenTimestamp": 1591692492539,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvWeb"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "Corp"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.137.152"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 4,
+    "logicalCpuCores": 4,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-2388497387952618268",
+        "name": "Corp"
+      }
+    ]
+  },
+  {
+    "entityId": "HOST-E0684E4F45189CE1",
+    "displayName": "SrvWeb-Corp - scpdpsnefro02v.ssib.local",
+    "discoveredName": "scpdpsnefro02v.ssib.local",
+    "firstSeenTimestamp": 1570317529434,
+    "lastSeenTimestamp": 1591692625288,
+    "tags": [
+      {
+        "context": "CONTEXTLESS",
+        "key": "Capa",
+        "value": "SrvWeb"
+      },
+      {
+        "context": "CONTEXTLESS",
+        "key": "Site",
+        "value": "Corp"
+      }
+    ],
+    "fromRelationships": {},
+    "toRelationships": {},
+    "osType": "WINDOWS",
+    "osArchitecture": "X86",
+    "osVersion": "Windows Server 2016 Datacenter 1607, ver. 10.0.14393",
+    "hypervisorType": "VMWARE",
+    "ipAddresses": [
+      "10.215.137.154"
+    ],
+    "bitness": "64bit",
+    "cpuCores": 4,
+    "logicalCpuCores": 4,
+    "monitoringMode": "FULL_STACK",
+    "agentVersion": {
+      "major": 1,
+      "minor": 191,
+      "revision": 217,
+      "timestamp": "20200514-103405",
+      "sourceRevision": ""
+    },
+    "consumedHostUnits": 0.5,
+    "userLevel": "SUPERUSER",
+    "managementZones": [
+      {
+        "id": "-2388497387952618268",
+        "name": "Corp"
+      }
+    ]
+  }
+]
